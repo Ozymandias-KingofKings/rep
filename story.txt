@@ -1,1 +1,1 @@
-Once upon a time there was a frog. This frog loved to eat flies and jump on lily pads of all kinds. One day the frog decided to try to eat all the bugs in my code and choked to death. The End.
+Once upon a time there was a frog. This frog loved to eat bugs and jump on lily pads of all kinds. One day the frog decided to try to eat all the bugs in my p2 implementation and choked to death. The End.
