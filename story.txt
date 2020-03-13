@@ -2,3 +2,4 @@ Once upon a time there was a frog. This frog loved to eat bugs and jump on lily 
 I thought it was the End and the frog is dead, but the surprise was the frog woke up again and completed eating my bugs in p3a implementation.
 The frog then returned to the swamp where it lives, and to its favorite lily pad. It booted up its tiny computer, running a version of Linux optimized for frogs, and established a remote connection to the computer science department's servers in order to get some work done. The frog brewed a pot of coffee to help it to stay awake while doing so.
 One day a hunter caught this frog, and this hunter become the best programmer in this world.
+The hunter barked like a dog ad he stripped the bugs out of his code, then cut up the frog and ate it for dinner. He choked on the frog and died. The End.
